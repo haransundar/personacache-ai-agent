@@ -22,11 +22,6 @@ You can interact with the "Tamil Nadu Information Guide" live on the ElevenLabs 
 
 Watch this video demonstration to see the agent in action and understand its core capabilities.
 
-**[INSERT YOUR DEMO VIDEO LINK HERE]**
-
-*Pro-Tip: You can create a clickable thumbnail image like this:*
-`[![PersonaCache Demo](URL_to_your_thumbnail.jpg)](URL_to_your_video)`
-
 ---
 
 ## ✨ Key Features
